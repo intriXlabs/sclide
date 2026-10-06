@@ -420,8 +420,10 @@ Returns `0` on success.
 ---
 
 ## 🎬 Origin & Credits
-sclide was inspired by the text-wipe effect from **Hired Guns (DMA Design, 1993)**, discovered through a Reddit discussion about recreating the effect in modern terminal software.
+sclide is inspired by the text-wipe effect from **Hired Guns (DMA Design, 1993)**, discovered through a Reddit discussion about recreating the effect in modern terminal software.
+
 The Reddit discussion and a comment by **u/FilesFromTheVoid** were the direct inspiration for turning that observation into a standalone implementation.
+
 sclide is an independent C++ implementation inspired by that visual technique; it is not affiliated with or endorsed by the original developers.
 
 --
