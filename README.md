@@ -22,6 +22,7 @@
 
 <div align="center">
     <image src="demoGifs/intro.gif" alt="sclide demo" width="600"/>
+    <image src="demoGifs/simpleDemo.gif" alt="sclide demo" width="600"/>
 </div>
 
 # demos
